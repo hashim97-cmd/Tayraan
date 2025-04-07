@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Button from '../../shared/Button';
-import img from '@/public/assets/images/reviewPic.png'
+import img from '@/../public/assets/images/reviewPic.png'
 import Image from 'next/image';
 import { FlagIcon } from '@/app/svg';
 
