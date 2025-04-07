@@ -1,7 +1,7 @@
 import { BaggageTickIcon, ExclmationIcon } from '@/app/svg';
 import React from 'react';
 import Section from '../../shared/section';
-import h1 from '@/public/assets/hotels/hd3.png'
+import h1 from '@/../public/assets/hotels/hd3.png'
 import Image from 'next/image';
 
 // Define types for the card data
