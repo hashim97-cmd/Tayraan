@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { FaLocationDot } from "react-icons/fa6";
 import { MdStar } from 'react-icons/md';
 import { TiStarHalf } from 'react-icons/ti';
-import emptyImg from '@/public/assets/emptyImg.png'
+import emptyImg from '@/../public/assets/emptyImg.png'
 import Image from 'next/image';
 import HotelSearch from '../home/components/hotel-search-form';
 import Link from 'next/link';
