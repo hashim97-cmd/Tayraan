@@ -1,0 +1,86 @@
+{
+    "header":{
+      "navItems": {
+        "promo": "Promo",
+        "aboutUs": "About Us",
+        "packages": "Packages",
+        "tayyranBusiness": "Tayyran Business",
+        "corporate": "Corporate"
+      },
+      "registerButton" : "Sign Up"    
+    },
+    "HomePage": {
+      "heroSection": {
+        "mainHeading": "Let’s book your next trip! now",
+        "subHeading": "Choose from over 1.5 million hotels & 450+ airlines",
+      "searchForm" : {
+        "formTypeHotels": "Hotels" ,
+        "formTypeFlights": "Flights",
+        "fromFieldLabel": "From",
+        "toFieldLabel": "To",
+        "DatePicker": "Departure Date",
+        "returnDate": "Return Date",
+        "travelersLabel" : "Travelers",
+        "classLabel":"Class",
+        "searchButton":"Search",
+        "searchButtonLoading": "Searching ...",
+        "loadingText": "Loading ...",
+        "hotelCountryLabel": "Select Country",
+        "hotelCityLabel":"Select City",
+        "hotelCheckInDate": "Check-In",
+        "hotelCheckOutDate": "Check-Out"
+      }
+      },
+      "bestOffer":{
+        "bestOfferHeading": "Best Offer",
+        "bestOfferText": "Members save 10% or more on over 100,000 hotels worldwide when signed in",
+        "bestOfferButton":"Sign in now"
+      },
+      "topHotels":{
+        "topHotelsHeading": "Top Hotels",
+        "categories": {
+          "Trending": "Trending",
+          "5-Star": "5-Star",
+          "Asian": "Asian",
+          "Europe": "Europe",
+          "Middle-East": "Middle-East",
+          "Budget-Friendly": "Budget-Friendly",
+          "Adventure": "Adventure",
+          "Family-Friendly": "Family-Friendly"
+        }
+      },
+      "topDeals":{
+        "topDealsHeading":"Last Minute Weekend Deals",
+        "bookNowButton": "Book Now"
+      },
+      "weekendDeals":{
+        "heading": "Last Minute Weekend Deals",
+        "dealsButton": "Member Price Available"
+      },
+      "topFlights":{
+        "heading": "Popular flights near you",
+        "categories": {
+        "International":"International", 
+        "Domestic": "Domestic"
+        }
+      },
+      "mobileAppSection":{
+        "heading": "Get Our Mobile App!",
+        "exprensHeading": "Experience Convenience at Your Fingertips",
+        "subHeading": "Explore our curated list of the best countries to visit in 2024 and discover incredible destinations waiting to be explored",
+        "downloadButton": "Download Now"
+      }
+    
+    },
+    "footer":{
+      
+    },
+    "errors": {
+        "fromError": "Please select a departure city",
+        "toError": "Please select a destination city.",
+        "requiredFields" : "Please fill in all required fields for the hotel search.",
+        "hotelErrorFetchingCountries" : "Error fetching countries:",
+        "hotelErrorFetchingcities":"Error fetching cities:",
+        "hotelSearchAlert":"Please select city, check-in, and check-out dates."
+    }
+  }

@@ -1,0 +1,85 @@
+{
+  "header": {
+    "navItems": {
+      "promo": "عروض",
+      "aboutUs": "معلومات عنا",
+      "packages": "الباقات",
+      "tayyranBusiness": "طيران بيزنس",
+      "corporate": "للشركات"
+    },
+    "registerButton": "إنشاء حساب"
+  },
+  "HomePage": {
+    "heroSection": {
+      "mainHeading": "لنحجز رحلتك القادمة الآن!",
+      "subHeading": "اختر من أكثر من 1.5 مليون فندق و450+ شركة طيران",
+      "searchForm": {
+        "formTypeHotels": "فنادق",
+        "formTypeFlights": "رحلات",
+        "fromFieldLabel": "من",
+        "toFieldLabel": "إلى",
+        "DatePicker": "تاريخ المغادرة",
+        "returnDate": "تاريخ العودة",
+        "travelersLabel": "المسافرون",
+        "classLabel": "الدرجة",
+        "searchButton": "بحث",
+        "searchButtonLoading": "جارٍ البحث...",
+        "loadingText": "جارٍ التحميل...",
+        "hotelCountryLabel": "اختر الدولة",
+        "hotelCityLabel": "اختر المدينة",
+        "hotelCheckInDate": "تسجيل الوصول",
+        "hotelCheckOutDate": "تسجيل المغادرة"
+      }
+    },
+    "bestOffer": {
+      "bestOfferHeading": "أفضل عرض",
+      "bestOfferText": "يوفر الأعضاء 10٪ أو أكثر على أكثر من 100,000 فندق حول العالم عند تسجيل الدخول",
+      "bestOfferButton": "سجّل الدخول الآن"
+    },
+    "topHotels": {
+      "topHotelsHeading": "أفضل الفنادق",
+      "categories": {
+        "Trending": "الأكثر شهرة",
+        "5-Star": "5 نجوم",
+        "Asian": "آسيوية",
+        "Europe": "أوروبية",
+        "Middle-East": "الشرق الأوسط",
+        "Budget-Friendly": "اقتصادية",
+        "Adventure": "مغامرات",
+        "Family-Friendly": "عائلية"
+      }
+    },
+    "topDeals": {
+      "topDealsHeading": "عروض عطلة نهاية الأسبوع اللحظية",
+      "bookNowButton": "احجز الآن"
+    },
+    "weekendDeals": {
+      "heading": "عروض عطلة نهاية الأسبوع اللحظية",
+      "dealsButton": "سعر الأعضاء متاح"
+    },
+    "topFlights": {
+      "heading": "الرحلات الشائعة بالقرب منك",
+      "categories": {
+        "International": "دولية",
+        "Domestic": "محلية"
+      }
+    },
+    "mobileAppSection": {
+      "heading": "حمّل تطبيقنا الآن!",
+      "exprensHeading": "سهولة الاستخدام بين يديك",
+      "subHeading": "استكشف قائمتنا المختارة لأفضل الدول للزيارة في عام 2024 واكتشف وجهات مذهلة تنتظرك",
+      "downloadButton": "حمّل الآن"
+    }
+  },
+  "footer": {
+    
+  },
+  "errors": {
+    "fromError": "يرجى اختيار مدينة المغادرة",
+    "toError": "يرجى اختيار مدينة الوجهة.",
+    "requiredFields": "يرجى ملء جميع الحقول المطلوبة للبحث عن فندق.",
+    "hotelErrorFetchingCountries": "خطأ في جلب الدول:",
+    "hotelErrorFetchingcities": "خطأ في جلب المدن:",
+    "hotelSearchAlert": "يرجى اختيار المدينة، وتواريخ تسجيل الوصول والمغادرة."
+  }
+}
