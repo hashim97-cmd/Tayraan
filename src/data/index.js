@@ -1,4 +1,4 @@
-import img from '@/public/assets/hotels/hd3.png'
+import img from '@/../public/assets/hotels/hd3.png'
 
 export const HotelData = [
     {
